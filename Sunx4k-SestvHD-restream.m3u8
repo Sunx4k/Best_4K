@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8_output_0.m3u8
+https://v2.catcast.tv/content/48076/index.m3u8
 https://stream.musavat.tv/tv.m3u8
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/chunklist.m3u8

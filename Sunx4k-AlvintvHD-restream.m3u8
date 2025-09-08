@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://maxturkey.serv00.net/alvinmusic.php/index.m3u8
 http://208.79.153.42/akamaissh101/ssh101/TEBER_10/chunks.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist.m3u8

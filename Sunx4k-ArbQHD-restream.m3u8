@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://ost.mymagic.tv/_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGQwMWUwNzMiLCJwIjoiZmZkMjNlN2YiLCJjIjoiMTAwNCIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzg5LjE4Ny4xNjkuODE6ODA4MC9zcnYxL2FyYl9hei9tcGVndHM
 http://89.187.169.81:8080/srv1/arb_az/mpegts?token=2022b6576a65c40ede42a7d4941b5471&did=5366158&cid=1004&rid=24397&m=1
 https://maxturkey.serv00.net/mycanlitv.php/master.m3u8?id=12985
 http://88.99.64.228/ARB/tracks-v1a1/mono.m3u8

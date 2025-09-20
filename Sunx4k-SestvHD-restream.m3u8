@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 https://v2.catcast.tv/content/48076/index.m3u8
 https://stream.musavat.tv/tv.m3u8

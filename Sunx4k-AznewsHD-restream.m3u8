@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
-http://51.210.110.78/11939/tracks-v1a1/mono.m3u8?token=09E2993CB98A
 https://539745e629986.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/chunklist.m3u8
+
+

@@ -2,9 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://rtmp.baku.tv/hls/bakutv_480p.m3u8
-https://cdn4.yayin.com.tr/bakixebertv/tracks-v1a1/mono.m3u8
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-https://cdn4.yayin.com.tr/bakixebertv/tracks-v1a1/mono.m3u8
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+https://132544.edgevideo.ru/streams/132544_959456/1325441080/index.m3u8
 http://195.9.195.3:8080/hls/215207.m3u8

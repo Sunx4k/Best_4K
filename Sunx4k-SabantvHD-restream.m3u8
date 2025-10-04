@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8
 https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 http://208.79.153.42/akamaissh101/ssh101/CINE5_T%C3%9CRK_TV/chunks.m3u8
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/chunks.m3u8

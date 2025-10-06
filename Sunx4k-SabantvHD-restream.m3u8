@@ -4,9 +4,5 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
-http://208.79.153.42/akamaissh101/ssh101/CINE5_T%C3%9CRK_TV/chunks.m3u8
-http://208.79.153.42/akamaissh101/ssh101/HBBTV/chunks.m3u8
-https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
-http://208.79.153.42/akamaissh101/ssh101/HBBTV/chunks.m3u8
-https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
-https://v2.catcast.tv/content/48695/index.m3u8
+
+

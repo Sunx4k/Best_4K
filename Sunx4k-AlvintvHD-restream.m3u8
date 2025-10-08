@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist.m3u8
 https://api-tv3.yayin.com.tr/postatv/postatv/chunklist.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist.m3u8

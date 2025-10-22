@@ -1,7 +1,8 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
 https://cdn900.canlitvme.com/sabantv.m3u8?tkn=hEbDm5215WpuEPyCP_kjXA&accesscode=1SM41L&tms=1761154204&hst=tv.canlitvme.com&ip=1.1.1.1
-#EXT-X-ENDLIST
+https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
+https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
+https://ip100.radyotelekomtv.com:3303/stream/play.m3u8

@@ -2,7 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://str2.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 https://str2.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 https://livetv-fa.tubi.video/abc-news/index_1.m3u8
